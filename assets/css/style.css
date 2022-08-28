@@ -1,0 +1,62 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  background-image: url("../img/Sri_Lanka.jpg");
+  height:15em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+}
+
+main h1 {
+    padding: 0px;
+    margin: 0px;
+    padding-left: 600px;
+    padding-top: 100px;
+}
+
+main h3 {
+    padding: 0px;
+    margin: 0px;
+    padding-left: 580px;
+
+}
+    
+.vuelos table {
+  width: 50%;
+  margin: auto;
+  background-color: antiquewhite;
+}
+
+
+
+.vuelos td {
+  width: 30%;
+  padding: 50px;
+
+
+}
+
+.vuelos p {
+  font-size: 20px;
+}
+
+.vuelos img {
+  width: 250px;
+  height: 300px;
+  border: 1px solid;
+}
+
+.footer {
+    background-color: lightcoral;
+    padding: 1em 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
